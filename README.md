@@ -2,3 +2,5 @@
 etc , grub , boot , video core , nvidia , intel , prime driver , linux , ubuntu
 
 example /etc/default
+
+Griggorii@gmail.com
